@@ -1,3 +1,7 @@
+## [0.2.2] - 15.01.2020
+
+* Add Pusher Client Support. Implemented by @heywhy
+
 ## [0.2.1] - 17.03.2018
 
 * Update package description
